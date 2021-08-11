@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @26Shu
 - 👀 I’m interested in psychology
-- 🌱 I’m currently learning MRI/fMRI，EEG data analysis
-- 💞️ I’m looking to collaborate on visual cognition, emotion calculation, brain development...
+- 🌱 I’m currently learning cognitive neuroscience, affective computing in human-computer interaction
+- 💞️ I’m looking to collaborate on visual cognition, affective computing, brain development...
 - 📫 How to reach me zhangs.psych@gmail.com
 
 <!---
